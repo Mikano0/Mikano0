@@ -1,4 +1,8 @@
-{
+> import os
+> os.system(f"echo {open('hima.json', 'r').read()} | pygmentize -l javascript --json")
+>
+>
+> {
 
     "username": "Mikano",
     "alias": "Mik",
