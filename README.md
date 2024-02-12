@@ -1,5 +1,5 @@
-> import os
-> os.system(f"echo {open('hima.json', 'r').read()} | pygmentize -l javascript --json")
+> > import os
+> > os.system(f"echo {open('hima.json', 'r').read()} | pygmentize -l javascript --json")
 >
 >
 > {
