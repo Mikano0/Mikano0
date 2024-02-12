@@ -4,14 +4,16 @@
 >
 > {
 
-    "username": "Mikano",
-    "alias": "Mik",
+    {
+    "username": "Himatric",
+    "alias": "Hima",
     "languages": [
         "python",
-        
+        "nodejs",
+        "go"
     ],
     "age": 18,
-    "discord": "Mikano",
-    "Riot": Mikano#mf69
+    "discord": "Himaval",
+    "valorant": "Hima#XANNY"
 
 }
