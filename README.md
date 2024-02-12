@@ -5,15 +5,15 @@
 > {
 
     {
-    "username": "Himatric",
-    "alias": "Hima",
+    "username": "Mikano",
+    "alias": "Mik",
     "languages": [
         "python",
-        "nodejs",
-        "go"
+
+        
     ],
     "age": 18,
-    "discord": "Himaval",
-    "valorant": "Hima#XANNY"
+    "discord": "Mikano",
+    "Riot": "Mikano#mf69"
 
 }
