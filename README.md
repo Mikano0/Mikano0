@@ -3,6 +3,7 @@
     "alias": "Mik",
     "languages": [
         "python",
+        
     ],
     "age": 18,
     "discord": "Mikano",
