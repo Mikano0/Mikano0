@@ -1,6 +1,6 @@
 ```ps1
 > import os
-> os.system(f"echo {open('hima.json', 'r').read()} | pygmentize -l javascript --json")
+> os.system(f"echo {open('Mikano.json', 'r').read()} | pygmentize -l javascript --json")
 ```
 
 ```json
